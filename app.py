@@ -1,4 +1,5 @@
-def addition(a,b):
+def addition(a,b,c):
+    print("hi")
     return a+b
 
 def division(a,b):
